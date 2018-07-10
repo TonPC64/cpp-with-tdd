@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chanwit/cpp/c-tdd/swap.cpp
+
+/home/chanwit/cpp/c-tdd/tests.cpp
+swap.cpp
+/home/chanwit/cpp/c-tdd/swap.cpp
+gtest/gtest.h
+-
+
