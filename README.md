@@ -26,3 +26,13 @@ cmake CMakeLists.txt # run first time only
 make # build test
 ./runTests # run
 ```
+
+## Results
+
+### Test Failed
+
+![Test Failed](img/testpass.png)
+
+## Test Pass
+
+![Test Pass](img/testpass.png)
